@@ -13,3 +13,7 @@ void GoToMenu() {
 void GoToCanvas() {
   goToScene(SCENE_CANVAS);
 }
+
+void GoToInstructions(){
+  goToScene(SCENE_INSTRUCTIONS);
+}

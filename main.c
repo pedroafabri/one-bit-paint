@@ -4,6 +4,7 @@
 #include "Scenes/Scenes.h"
 #include "Scenes/Menu/Menu.c"
 #include "Scenes/Canvas/Canvas.c"
+#include "Scenes/Instructions/Instructions.c"
 
 void main() {
 
@@ -16,6 +17,10 @@ void main() {
 
     case SCENE_CANVAS:
       RunCanvas();
+      break;
+
+    case SCENE_INSTRUCTIONS:
+      RunInstructions();
       break;
     
     default:

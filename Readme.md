@@ -9,3 +9,6 @@ Simply download the [Latest Release](https://site.com) and run it in any GameBoy
 
 ## Compiling
 You need the GBDK installed in your PATH, then execute the `build.sh` script.
+
+## Credits
+d pad by Aurélien Dotpro from the Noun Project

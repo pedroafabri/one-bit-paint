@@ -13,5 +13,5 @@ void RunMenu() {
   DISPLAY_ON;
 
   waitpad(J_START);
-  GoToCanvas();
+  GoToInstructions();
 }
